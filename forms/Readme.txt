@@ -1,2 +1,1 @@
-Fully working PHP/AJAX contact form script is available in the pro version of the template.
-You can buy it from: https://bootstrapmade.com/theproperty-bootstrap-real-estate-template/
+Welcome to the official repository/documentation for CanvasHomes. This project is dedicated to redefining the modern living space, blending aesthetic design with functional architecture to create homes that serve as a literal "canvas" for your life.

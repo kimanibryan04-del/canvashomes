@@ -1,6 +1,1 @@
-Thanks for downloading this template!
-
-Template Name: TheProperty
-Template URL: https://bootstrapmade.com/theproperty-bootstrap-real-estate-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Welcome to the official repository/documentation for CanvasHomes. This project is dedicated to redefining the modern living space, blending aesthetic design with functional architecture to create homes that serve as a literal "canvas" for your life.
